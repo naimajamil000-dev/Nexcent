@@ -1,7 +1,14 @@
 :root{
-    --primary-color:#4CAF4F;
- }
- .btn-color{
-    background-color: var(--primary-color);
-    color: white;
- }
+    --green: #4CAF4F;
+    --silver:#F5F7FA;
+}
+.grn-btn{
+    background-color: var(--green);
+    color: #F5F7FA;
+}
+.hero-bg{
+    background-color: var(--silver);
+}
+.hero-grn{
+    color: var(--green);
+}
